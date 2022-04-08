@@ -32,3 +32,8 @@ Lista de tarefa a fazer no repositório:
  ## referencias
  * [documentação do github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
 
+# branchs
+git branch- lista as branchs no computador 
+git branch nome_da_nova_branch -nao colocar acento ou Ç e use undescore para os espaços em branco
+git switch nome_da_branch - muda de branch
+metodo alternativo para o GIT SWITCH: git checkout nome_da_branch
